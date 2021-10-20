@@ -28,7 +28,11 @@
 
 ## 参考文献
 
+[参考文献リスト](https://docs.google.com/spreadsheets/d/1O4-wbP03rJ-4j9lbe6niUpBUipe4R3k3eoWX0w6wqmI/edit?usp=sharing)
+
 ## プレゼンスライド
 
-## プロジェクトリンク
+[スライドリンク]()
+
+## [プロジェクトリンク](https://github.com/furuhashilab/sotsuron2021/projects/1)
 
