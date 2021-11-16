@@ -30,11 +30,11 @@
 
 ## 参考文献
 
+[参考文献リスト](https://docs.google.com/spreadsheets/d/1jpRv0i6nmzOQlFufo8qODGCFgeomgjxghMPRr35G7CM/edit?usp=sharing)
+
 ## 先行事例
 
 [ArcGIS×デジタルファブリケーション](https://blog.esrij.com/2017/06/20/post-26810/)
-
-[参考文献リスト](https://docs.google.com/spreadsheets/d/1jpRv0i6nmzOQlFufo8qODGCFgeomgjxghMPRr35G7CM/edit?usp=sharing)
 
 ## プレゼンスライド
 
