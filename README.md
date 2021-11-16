@@ -42,7 +42,7 @@
 
 ## 先行事例
 
-* [DISとレーザー加工機で作る３Dマップによる防災授業の小中学校への展開](http://www.gisa-japan.org/file/kureteam.pdf)
+* [GISとレーザー加工機で作る３Dマップによる防災授業の小中学校への展開](http://www.gisa-japan.org/file/kureteam.pdf)
 
 * [はだちず](https://internet.watch.impress.co.jp/docs/column/chizu/1083137.html)
 
