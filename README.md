@@ -30,11 +30,11 @@
 
 ## 参考文献
 
-[参考文献リスト](https://docs.google.com/spreadsheets/d/1O4-wbP03rJ-4j9lbe6niUpBUipe4R3k3eoWX0w6wqmI/edit?usp=sharing)
+[参考文献リスト](https://docs.google.com/spreadsheets/d/1jpRv0i6nmzOQlFufo8qODGCFgeomgjxghMPRr35G7CM/edit?usp=sharing)
 
 ## プレゼンスライド
 
-[スライドリンク]()
+[スライドリンク](https://docs.google.com/presentation/d/11SQbvxmzgmu_MuHshj5uIpXlQ-6LrCZYlF_P9K-lNwA/edit?usp=sharing)
 
 ## [プロジェクトリンク](https://github.com/furuhashilab/sotsuron2021/projects/1)
 
