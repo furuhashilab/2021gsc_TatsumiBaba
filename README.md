@@ -34,8 +34,11 @@
 
 ## 先行事例
 
-[ArcGIS×デジタルファブリケーション](https://blog.esrij.com/2017/06/20/post-26810/)
-[laserbox 体験記①「日本地図パズル」](https://xn--wckwfybb4714bueo2su.com/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%8A%A0%E5%B7%A5%E6%A9%9F/laserbox/laserbox-%E4%BD%93%E9%A8%93%E8%A8%98%E2%91%A0%E3%80%8C%E6%97%A5%E6%9C%AC%E5%9C%B0%E5%9B%B3%E3%83%91%E3%82%BA%E3%83%AB%E3%80%8D/)
+* [ArcGIS×デジタルファブリケーション](https://blog.esrij.com/2017/06/20/post-26810/)
+
+* [laserbox 体験記①「日本地図パズル」](https://xn--wckwfybb4714bueo2su.com/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%8A%A0%E5%B7%A5%E6%A9%9F/laserbox/laserbox-%E4%BD%93%E9%A8%93%E8%A8%98%E2%91%A0%E3%80%8C%E6%97%A5%E6%9C%AC%E5%9C%B0%E5%9B%B3%E3%83%91%E3%82%BA%E3%83%AB%E3%80%8D/)
+
+* [レーザーカッター地図](https://www.monomono-blog.com/entry/2018/11/02/123500)
 
 ## プレゼンスライド
 
