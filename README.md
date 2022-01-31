@@ -15,8 +15,11 @@
 
 ## 中間発表
 
+## [スライド](https://docs.google.com/presentation/d/11SQbvxmzgmu_MuHshj5uIpXlQ-6LrCZYlF_P9K-lNwA/edit?usp=sharing)
+## [Medium記事](https://medium.com/furuhashilab/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%95%E3%82%A1%E3%83%96%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%A8%E7%A9%BA%E9%96%93%E6%83%85%E5%A0%B1%E3%81%AB%E3%82%88%E3%82%8B%E4%BE%A1%E5%80%A4%E5%89%B5%E9%80%A0%E3%81%AE%E4%BB%8A%E5%BE%8C%E3%81%AE%E5%8F%AF%E8%83%BD%E6%80%A7-823541badd8e)
 
-# 【2021年度ゼミ論】タイトル：
+
+# 【2021年度ゼミ論】タイトル： 「デジタルファブリケーションを用いた地理空間情報表現手法の検討 〜レーザー加工機を例に〜」
 
 ## Introduction
 
@@ -63,7 +66,9 @@
 
 ## プレゼンスライド
 
-[スライドリンク](https://docs.google.com/presentation/d/11SQbvxmzgmu_MuHshj5uIpXlQ-6LrCZYlF_P9K-lNwA/edit?usp=sharing)
+[スライドリンク](https://docs.google.com/presentation/d/16fpcAVSDEMSxJAcALbpTJTPkFp0t5yzOxhvNEyiFvYQ/edit?usp=sharing)
+
+## [Medium記事](https://medium.com/furuhashilab/%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%83%95%E3%82%A1%E3%83%96%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E7%94%A8%E3%81%84%E3%81%9F%E5%9C%B0%E7%90%86%E7%A9%BA%E9%96%93%E6%83%85%E5%A0%B1%E8%A1%A8%E7%8F%BE%E6%89%8B%E6%B3%95%E3%81%AE%E6%A4%9C%E8%A8%8E-%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%8A%A0%E5%B7%A5%E6%A9%9F%E3%82%92%E4%BE%8B%E3%81%AB-2101412fc219)
 
 ## [プロジェクトリンク](https://github.com/furuhashilab/sotsuron2021/projects/1)
 
