@@ -38,10 +38,12 @@
  
  
 （FABOOL LaserCO2の組立作業一部分動画）
+
 https://user-images.githubusercontent.com/40033443/152271900-9484cdf6-66c7-434c-937c-aa8707454a73.mp4
 
 
 （FABOOL LaserCO2のレーザー照準合わせタイムラプス動画）
+
 https://user-images.githubusercontent.com/40033443/152275095-cf53d32d-7064-4bb2-91e5-ba2160185bdd.MP4
 
 
